@@ -1,0 +1,3 @@
+[submodule "BlogApp"]
+	path = BlogApp
+	url = https://github.com/rathodPrathamesh/BlogPost
