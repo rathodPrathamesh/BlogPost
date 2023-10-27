@@ -19,7 +19,7 @@ A full-stack blog application built using the MERN stack (MongoDB, Express.js, R
 - User authentication and authorization
 - Blog creation, editing, and categorization
 - Real-time updates
-- ...
+
 
 ## Usage Instructions
 
